@@ -1,0 +1,16 @@
+﻿  Sobel_Process.cpp
+E:\c++\Sobel_Process\Sobel_Process.cpp(26,42): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=unsigned char
+          ]
+E:\c++\Sobel_Process\Sobel_Process.cpp(34,42): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=unsigned char
+          ]
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Sobel_Process.vcxproj -> E:\c++\Sobel_Process\x64\Release\Sobel_Process.exe
